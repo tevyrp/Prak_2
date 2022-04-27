@@ -1,6 +1,10 @@
 import java.util.Random;
 import java.util.Scanner;
 
+/*  Определить матрицу (двумерный массив) и ее заполнить случайными значениями.
+    Постровить вектор, который возвращает число элементов i-й строки,
+    значения которых меньше заданного значения*/
+
 public class SecondWork2_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,5 +1,8 @@
 import java.util.Random;
 
+/*  Дан двумерный массив A, размером (nxn) (или квадратная матрица A).
+Найти среднее геометрическое положительных элементов её  побочной диагонали */
+
 public class SecondWork2_4 {
     public static void main(String[] args) {
         int[][] matrix = new int[5][5];
